@@ -1,0 +1,1 @@
+-IC:/Users/timho/DOCUME~1/PROGRA~1/Astro/FITSRE~1/build/DESKTO~1/FITSRE~1/include -isystem C:/Qt/6.11.1/mingw_64/include/QtCore -isystem C:/Qt/6.11.1/mingw_64/include -isystem "C:/Qt/6.11.1/mingw_64/mkspecs/win32-g++" -isystem C:/Qt/6.11.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.11.1/mingw_64/include/QtGui
