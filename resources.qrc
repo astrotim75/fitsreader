@@ -1,6 +1,8 @@
 <RCC>
     <qresource prefix="/">
         <file>Assets/open_file.png</file>
+        <file>Assets/open_folder.png</file>
+        <file>Assets/fits_data.png</file>
         <file>stylesheet/stylesheet.qss</file>
     </qresource>
 </RCC>

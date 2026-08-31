@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+4eebc46d080bb3b3913b9632d62d3e8d CMakeFiles/FitsReader_autogen
+0f3bec266d8aea99b1d85fd0f00eb442 FitsReader_autogen/EWIEGA46WW/qrc_resources.cpp
+3f09838c5bae4fe9387fd56e7475ebd9 FitsReader_autogen/timestamp

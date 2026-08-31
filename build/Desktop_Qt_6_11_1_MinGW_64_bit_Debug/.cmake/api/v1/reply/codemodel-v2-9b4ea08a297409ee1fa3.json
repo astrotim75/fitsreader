@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ff68d2e50938cf84f6fe.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FitsReader",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "FitsReader::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FitsReader-Debug-9999257c71051545d5ef.json",
+					"name" : "FitsReader",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FitsReader_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FitsReader_autogen-Debug-e1b24700c5b4d137d537.json",
+					"name" : "FitsReader_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FitsReader_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FitsReader_autogen_timestamp_deps-Debug-0ab476038aed4956e063.json",
+					"name" : "FitsReader_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/timho/Documents/Programming Repo/Astro/FitsReader/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug",
+		"source" : "C:/Users/timho/Documents/Programming Repo/Astro/FitsReader"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

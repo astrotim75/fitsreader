@@ -11,6 +11,14 @@ MainWindow::MainWindow(QWidget *parent)
     ui->btnOpenFile->setIconSize(QSize(25,25));
     ui->btnOpenFile->setToolTip(tr("Open fits file"));
 
+    ui->btnOpenFolder->setIcon(QIcon(":/Assets/open_folder.png"));
+    ui->btnOpenFolder->setIconSize(QSize(25,25));
+    ui->btnOpenFolder->setToolTip(tr("Open fits file folder"));
+
+    ui->btnFitsData->setIcon(QIcon(":/Assets/fits_data.png"));
+    ui->btnFitsData->setIconSize(QSize(25,25));
+    ui->btnFitsData->setToolTip(tr("Shows fits file meta-data"));
+
 }
 
 MainWindow::~MainWindow()
