@@ -19,6 +19,10 @@ MainWindow::MainWindow(QWidget *parent)
     ui->btnFitsData->setIconSize(QSize(25,25));
     ui->btnFitsData->setToolTip(tr("Shows fits file meta-data"));
 
+    ui->btnFitsBatchData->setIcon(QIcon(":/Assets/fits_batch_data.png"));
+    ui->btnFitsBatchData->setIconSize(QSize(25,25));
+    ui->btnFitsBatchData->setToolTip(tr("Shows fits batch file meta-data"));
+
 }
 
 MainWindow::~MainWindow()
